@@ -20,6 +20,7 @@ This will involve all the steps such as:
 - Preprocessing steps
 - Test-train split
 - Feature scaling
+- Churn Rate and Class Imbalance
 - Model Building using RFE, p-values and VIFs
 - Confusion Matrix
 - ROC-AOC Curve
